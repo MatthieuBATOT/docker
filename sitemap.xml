@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://sensode.net/sensblack/</loc>
+    <lastmod>2017-03-07</lastmod>
+  </url>
+  <url oeid="773e3ed3-621f-47ae-b09a-ff90f6e53bbf" oelang="DEFAULT">
+    <loc>http://sensode.net/sensblack/index.htm</loc>
+    <lastmod>2017-03-07</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="http://sensode.net/sensblack/index.htm" />
+    <xhtml:link rel="alternate" hreflang="en" href="http://sensode.net/sensblack/index.en.htm" />
+  </url>
+  <url oeid="773e3ed3-621f-47ae-b09a-ff90f6e53bbf" oelang="EN">
+    <loc>http://sensode.net/sensblack/index.en.htm</loc>
+    <lastmod>2017-03-07</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="http://sensode.net/sensblack/index.htm" />
+    <xhtml:link rel="alternate" hreflang="en" href="http://sensode.net/sensblack/index.en.htm" />
+  </url>
+  <url oeid="19ac5b22-4c86-499c-8aaf-78ae28e4f6fb" oelang="DEFAULT">
+    <loc>http://sensode.net/sensblack/actualites.htm</loc>
+    <lastmod>2017-03-07</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="http://sensode.net/sensblack/actualites.htm" />
+    <xhtml:link rel="alternate" hreflang="en" href="http://sensode.net/sensblack/actualites.en.htm" />
+  </url>
+  <url oeid="19ac5b22-4c86-499c-8aaf-78ae28e4f6fb" oelang="EN">
+    <loc>http://sensode.net/sensblack/actualites.en.htm</loc>
+    <lastmod>2017-03-07</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="http://sensode.net/sensblack/actualites.htm" />
+    <xhtml:link rel="alternate" hreflang="en" href="http://sensode.net/sensblack/actualites.en.htm" />
+  </url>
+  <url oeid="a85ddf29-a6f6-4b84-b1ab-5ce1456e88d1" oelang="DEFAULT">
+    <loc>http://sensode.net/sensblack/FAQ.htm</loc>
+    <lastmod>2017-03-03</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="http://sensode.net/sensblack/FAQ.htm" />
+    <xhtml:link rel="alternate" hreflang="en" href="http://sensode.net/sensblack/FAQ.en.htm" />
+  </url>
+  <url oeid="a85ddf29-a6f6-4b84-b1ab-5ce1456e88d1" oelang="EN">
+    <loc>http://sensode.net/sensblack/FAQ.en.htm</loc>
+    <lastmod>2017-03-03</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="http://sensode.net/sensblack/FAQ.htm" />
+    <xhtml:link rel="alternate" hreflang="en" href="http://sensode.net/sensblack/FAQ.en.htm" />
+  </url>
+</urlset>
